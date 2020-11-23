@@ -33,6 +33,11 @@ body {
   color: red;
 }
 
+.weather-icon {
+  font-size: 2rem;
+  color: blue;
+}
+
 .loader {
   display: flex;
   flex-direction: column;
